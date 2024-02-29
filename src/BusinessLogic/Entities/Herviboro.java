@@ -13,7 +13,7 @@ public class Herviboro extends ZPAlimento{
 
     @Override
     public void zpAlimento() {
-        System.out.println("Comiendo hervioro");
+        System.out.println("Comiendo comida hervibora");
     }
 
     @Override
