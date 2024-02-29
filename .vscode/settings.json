@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Zampa\\OneDrive - Escuela Politécnica Nacional\\EPN\\PROGRA II\\PoliTinder\\lib\\flatlaf-3.3.jar",
+        "c:\\Users\\Zampa\\OneDrive - Escuela Politécnica Nacional\\EPN\\PROGRA II\\PoliTinder\\lib\\flatlaf-intellij-themes-3.3.jar",
+        "c:\\Users\\Zampa\\OneDrive - Escuela Politécnica Nacional\\EPN\\PROGRA II\\PoliTinder\\lib\\sqlite-jdbc-3.40.0.0.jar"
+    ]
+}
