@@ -24,7 +24,7 @@ public class App {
         }
 
         // Ruta del archivo setAlimento.txt
-        String rutaArchivo = "C:\\Users\\Zack_\\ZPExamenBimestre2\\src\\setAlimento.txt";
+        String rutaArchivo = "src\\setAlimento.txt";
 
         // Crear la lista de larvas con alimentos asignados
         List<Hormiga> larvas = crearListaLarvas(rutaArchivo);
