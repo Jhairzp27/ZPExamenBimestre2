@@ -1,5 +1,5 @@
 package BusinessLogic.Entities;
 
-public interface zpIHormiga {
-    boolean comer(Alimento);
+public interface ZPIHormiga {
+    boolean comer(ZPAlimento alimento);
 }
