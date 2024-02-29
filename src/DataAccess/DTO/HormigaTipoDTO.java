@@ -1,10 +1,11 @@
 /*
 |----------------------------------------|
 | (©) 2K24 EPN-FIS, All rights reserved. |
-| pdavila0113@gmail.com      BaphomeT-T  |
+| isaac.proano@epn.edu.ec     Blurryfacce|
+| jhair.zambrano@epn.edu.ec   Jhairzp27  |
 |----------------------------------------|
-Autor : BaphomeT-T
-Fecha : 25.feb.2k24
+Autor : Blurryfacce - Jhairzp27
+Fecha : 29.feb.2k24
 */
 package DataAccess.DTO;
 public class HormigaTipoDTO {
