@@ -1,6 +1,13 @@
 package BusinessLogic.Entities.EjercitoRuso;
 
+import BusinessLogic.Entities.ZPAlimento;
+
 public class Zangano extends Hormiga {
+    @Override
+    public boolean comer(ZPAlimento alimento) {
+        // TODO Auto-generated method stub
+        return false;
+    }
     private int fuerza; 
     private int rapidez; 
     public Zangano(String tipo) {
