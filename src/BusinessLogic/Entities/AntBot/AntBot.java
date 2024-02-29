@@ -12,7 +12,7 @@ public class AntBot extends IABot implements IHormigaBody {
     private Camara eCamara; 
     private CircuitoAnillado eCircuitoAnillado;
     private Pata ePata; 
-    private FuntePoder eFuntePoder; 
+    private FuntePoder eFuntePoder;
     private Radio eRadio; 
     private SensorOptico eSensorOptico; 
     private Tenaza eTenaza; 

@@ -18,5 +18,6 @@ public class Rastreadora extends Hormiga {
     public void setRapidez(int rapidez) {
         this.rapidez = rapidez;
     }
+  
     
 }
